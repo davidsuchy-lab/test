@@ -1,1 +1,1 @@
-Well done now write me your name. And what is our hostname?
+Well done now write me your name. What is our hostname?
