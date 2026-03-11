@@ -1,1 +1,1 @@
-Well done now write me your name. What is our hostname?
+Well done now write me your name. Is our hostname test.dev.cc.com?
